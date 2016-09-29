@@ -337,6 +337,7 @@
   "Rating": "Įvertinimas",
   "Learn more": "Sužinoti daugiau",
   "Unavailable": "Nepasiekiamas",
+  "Remote": "Nuotolinis",
   "Update Libraries": "Atnaujinti bibliotekas",
   "Channels": "Kanalai",
   "Manage": "Valdyti",
@@ -382,6 +383,7 @@
   "Similar Artists": "Panašūs atlikėjai",
   "Cast": "Aktoriai",
   "Extras": "Papildomai",
+  "Up Next": "Toliau",
   "Disconnect": "Atsijungti",
   "{1} Settings": "{1} nustatymai",
   "There was an error adding this library.": "Įvyko klaida pridedant šią biblioteką.",
@@ -576,6 +578,7 @@
   "Last updated {1}": "Paskutinis atnaujinimas {1}",
   "Connecting server...": "Prisijungiama prie serverio...",
   "Disconnecting server...": "Atsijungiama nuo serverio...",
+  "Not available outside your network": "Pilnai pasiekiamas iš jūsų tinklo išorės",
   "First {1}sign in{2} to access your server from anywhere.": "Pirma {1}prisijunkite{2}, jei norite pasiekti serverį iš bet kur.",
   "Your server is signed in to Plex, but is not reachable from outside your network. {1}Learn more{2}": "Jūsų serveris prijungtas prie Plex, bet jis nepasiekiamas iš jūsų tinklo išorės. {1}Sužinoti daugiau{2}",
   "Disable Remote Access": "Išjungti nuotolinę prieigą",
@@ -628,6 +631,10 @@
   "Skip to Previous Item": "Pereiti prie ankstesnio elemento",
   "Skip to Next Item": "Pereiti prie kito elemento",
   "Episode {1}": "Epizodas {1}",
+  "Content Rating": "Turinio reitingas",
+  "Studio": "Studija",
+  "Record Label": "Įrašų kompanija",
   "Summary": "Santrauka",
-  "Biography": "Biografija"
+  "Biography": "Biografija",
+  "Country": "Šalis"
 }

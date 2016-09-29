@@ -64,6 +64,7 @@
   "Clips": "Myndbönd",
   "Photo Album": "Mynda albúm",
   "Photo Albums": "Mynda albúm",
+  "Playlists": "Spilunarlistar",
   "Video": "Myndband",
   "Audio": "Hljóð",
   "Subtitles": "Texti",
@@ -269,6 +270,7 @@
   "Status": "Staða",
   "Settings": "Stillingar",
   "Try again": "Reyna aftur",
+  "Plex Pass": "Plex passi",
   "Version": "Útgáfa",
   "Searching for {1}": "Leita að {1}",
   "Results for {1}": "Niðurstöður fyrir {1}",
@@ -308,6 +310,7 @@
   "Popular Tracks": "Vinsæl Lög",
   "Music Videos": "Tónlistar myndbönd",
   "Cast": "Leikarar",
+  "Extras": "Viðbætur",
   "This media type does not have a details page.": "Þessi miðlunargerð er ekki með upplýsingasíðu.",
   "Auto Match": "Sjálfvirk samsvörun",
   "Nothing queued": "Ekkert í biðröð",
@@ -328,6 +331,7 @@
   "enter to {1}upload{2}": "veldu hér til að {1}hlaða upp{2}",
   "esc to {1}cancel{2}": "Esc til að {1}hætta við{2}",
   "Files": "Skjöl",
+  "Labels": "Merki",
   "Add Folder": "Bæta við möppu",
   "Add": "Bæta við",
   "Select a Collection": "Veldu Samtíming",
@@ -481,6 +485,7 @@
   "Select which additional agents should contribute to metadata from {1}, and drag them to change the order of preference.": "Veldu önnur snjalltæki sem eiga að leggja fram lýsigögn fyrir {1}, og dragðu þá til að breyta forgangsröðun.",
   "Connecting server...": "Tengi miðlara...",
   "Disconnecting server...": "Aftengi miðlara...",
+  "Not available outside your network": "Netþjóninn er Fyllilega aðgengilegur utan Heimanets",
   "First {1}sign in{2} to access your server from anywhere.": "Fyrst skaltu {1}skrá þig inn{2} til að fá aðgang að miðlaranum þínum hvar sem er.",
   "Your server is signed in to Plex, but is not reachable from outside your network. {1}Learn more{2}": "Netþjóninn þinn er samstilltur við Plex, en ekki tengdur utan heimanets. {1}\\nLestu meira {2}",
   "Server Mapping": "Tengdu Netdrif",
@@ -534,5 +539,6 @@
   "Analyzing {1} in {2} on {3}": "Forskoða {1} í {2} á {3}",
   "Deleted {1} in {2} on {3}": "Eyddi {1} í {2} á {3}",
   "Episode {1}": "Þáttur {1}",
-  "Summary": "Samantekt"
+  "Summary": "Samantekt",
+  "Country": "Land"
 }

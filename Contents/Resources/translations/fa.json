@@ -362,6 +362,7 @@
   "Library type": "نوع مجموعه ",
   "Last updated {1}": "آخرین به روز رسانی {1}",
   "Select which additional agents should contribute to metadata from {1}, and drag them to change the order of preference.": "پایگاه های اضافی را جهت کمک به دریافت اطلاعات {1} انتخاب کنید و ترتیب استفاده از آنها را با جابجا کردنشان تعیین کنید.",
+  "Not available outside your network": "دسترسی کامل از خارج شبکه شما",
   "First {1}sign in{2} to access your server from anywhere.": "اول {1} به سیستم وارد شوید {2} برای دسترسی به سرور خود از هر جا.",
   "Disable Remote Access": "غیر فعال کردن دسترسی از راه دور",
   "Server Mapping": "نقشه برداری سرور",

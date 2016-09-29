@@ -451,6 +451,7 @@
   "Try again": "Proovi uuesti",
   "Allow insecure connection": "Luba ebaturvaline ühendus",
   "Remove server": "Eemalda server",
+  "Plex Pass": "Plexi pilet",
   "Mobile Sync": "Mobiilne sünkroonimine",
   "Version": "Versioon",
   "Reqirements": "Nõudmised",
@@ -799,6 +800,11 @@
   "S{1}": "H{1}",
   "E{1}": "O{1}",
   "Episode {1}": "Osa {1}",
+  "Content Rating": "Sisu hinnang",
+  "Studio": "Stuudio",
+  "Record Label": "Plaadifirma",
   "Summary": "Kokkuvõte",
-  "Biography": "Biograafia"
+  "Biography": "Biograafia",
+  "Country": "Riik",
+  "Moods": "Meeleolud"
 }

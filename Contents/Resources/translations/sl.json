@@ -374,6 +374,7 @@
   "Where is my server?": "Kje je moj strežnik?",
   "Learn more": "Več o tem",
   "Unavailable": "Ni na voljo",
+  "Remote": "Daljinec",
   "Update Libraries": "Posodobi knjižnice",
   "Channels": "Kanali",
   "Manage": "Upravljaj",
@@ -620,6 +621,7 @@
   "Select which additional agents should contribute to metadata from {1}, and drag them to change the order of preference.": "Izberi,katera sredstva bi prispevala metapodatke od {1}, in jih povlecite, da spremenite vrstni red prednosti.",
   "Connecting server...": "Povezovanje strežnika ...",
   "Disconnecting server...": "Prekinjanje strežniške povezave ...",
+  "Not available outside your network": "Popolnoma dostopno izven vašega omrežja",
   "First {1}sign in{2} to access your server from anywhere.": "Najprej {1}se prijavite{2} da lahko dostopate do serverja od koderkoli.",
   "Your server is signed in to Plex, but is not reachable from outside your network. {1}Learn more{2}": "Vaš strežnik je registriran v Plex sistemu, vendar ni dosegljiv preko interneta. {1}Podrobnosti{2}",
   "Disable Remote Access": "Onemogoči oddaljen dostop",
@@ -675,6 +677,10 @@
   "Loading metadata for {1} in {2} on {3}": "Nalaganje meta podatkov za {1} v {2} na {3}",
   "Finished processing {1} in {2} on {3}": "Končana obdelava {1} v {2} na {3}",
   "Episode {1}": "Epizoda {1}",
+  "Content Rating": "Ocena vsebine",
   "Summary": "Povzetek",
-  "Biography": "Biografija"
+  "Biography": "Biografija",
+  "Directors": "Režiserji",
+  "Country": "Država",
+  "Genres": "Žanri"
 }
