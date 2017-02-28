@@ -1,4 +1,5 @@
 {
+  "The username or password is incorrect": "The username or password is incorrect.",
   "Confirm Password must match Password": "onfirm Password must match Password",
   "Scanning for channels... This make take some time.": "Scanning for channels...this make take some time.",
   "We found hardware we recognize!": "We found hardware we recognise!",
@@ -42,9 +43,10 @@
   "We're now building your Program Guide": "We're now building your Programme Guide",
   "The Program Guide is empty": "The Programme Guide is empty",
   "Please verify your channel mappings and refresh the Program Guide": "Please verify your channel mappings and refresh the Programme Guide",
-  "Subscribe to our amazing, but infrequent email newsletter": "Subscribe to our amazing, but infrequent, email newsletter",
-  "Success! Plex Cloud is ready to go. This works just like a regular Plex Media Server. Pick it in the location menu of your favorite Plex app and stream away!": "Success! Plex Cloud is ready to go. This works just like a normal Plex Media Server. Pick it in the location menu of your favourite Plex app and stream away!",
   "Authorized Devices": "Authorised Devices",
+  "Subscribe to our amazing, but infrequent email newsletter": "Subscribe to our amazing, but infrequent, email newsletter",
+  "Reauthorize": "Reauthorise",
+  "Success! Plex Cloud is ready to go. This works just like a regular Plex Media Server. Pick it in the location menu of your favorite Plex app and stream away!": "Success! Plex Cloud is ready to go. This works just like a normal Plex Media Server. Pick it in the location menu of your favourite Plex app and stream away!",
   "Check the status in {1}Optimized Versions Settings{2}.": "Check the status in {1}Optimised Versions Settings{2}.",
   "Manage your completed conversions in {1}Optimized Versions Settings{2}.": "Manage your completed conversions in {1}Optimised Versions Settings{2}.",
   "All set! Your Plex Media Server is working hard to find your media and make it beautiful. Grab the Plex app for all your favorite devices to get the most out of Plex and start streaming everywhere!": "All set! Your Plex Media Server is working hard to find your media and make it beautiful. Grab the Plex app for all your favourite devices to get the most out of Plex and start streaming everywhere!",
@@ -62,6 +64,5 @@
   "Manage your optimized versions in {1}Optimized Versions Settings{2}.": "Manage your optimised versions in {1}Optimised Versions Settings{2}.",
   "Choose \"Optimize...\" on items in your library and optimized versions will appear here.": "Choose \"Optimise...\" on items in your library and optimised versions will appear here.",
   "Optimized Versions": "Optimised Versions",
-  "Analyze Library or Analyze Item": "Analyse Library or Analyse Item",
   "Analyzing {1} in {2} on {3}": "Analysing {1} in {2} on {3}"
 }
